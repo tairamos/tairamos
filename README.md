@@ -1,4 +1,5 @@
 ### Oii, Eu sou a Taila Ramos ! 👋
+Sou Desenvolvedor (a) Java Fullstack Jr. | Generation Brasil | 💛
 <img src="https://komarev.com/ghpvc/?username=tairamos&color=green" alt="tairamos" /> 
 
  <div>
