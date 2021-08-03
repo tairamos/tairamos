@@ -1,5 +1,5 @@
 ### Oii, seja bem vindo ! 👋
-Eu sou a Taila Ramos, tenho 20 anos e sou Desenvolvedor (a) Java Fullstack.
+Eu sou a Taila Ramos, tenho 20 anos e sou Desenvolvedora Java Fullstack Jr. 💜
 
 - São Paulo - SP 📍
 - Estudante da Generation Brasil 💛
