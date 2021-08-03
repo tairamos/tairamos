@@ -1,6 +1,6 @@
 ### Oii, Eu sou a Taila Ramos ! 👋
 Sou Desenvolvedor (a) Java Fullstack Jr. | Generation Brasil | 💛
-São Paulo - SP  📍
+- São Paulo - SP  📍
 
  <div>
   <a href="https://github.com/tairamos">
