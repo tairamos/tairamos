@@ -1,6 +1,9 @@
-### Oii, Eu sou a Taila Ramos ! 👋
-Sou Desenvolvedor (a) Java Fullstack Jr. | Generation Brasil | 💛
-- São Paulo - SP  📍
+### Oii, seja bem vindo ! 👋
+Eu sou a Taila Ramos, tenho 20 anos e sou Desenvolvedor (a) Java Fullstack.
+
+- São Paulo - SP 📍
+- Estudante da Generation Brasil 💛
+- Gosto de uns joguinhos por ai também, e sim eu jogo Lol 🎮 🤷‍♂️
 
  <div>
   <a href="https://github.com/tairamos">
