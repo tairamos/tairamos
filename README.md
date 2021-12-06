@@ -2,8 +2,8 @@
 Eu sou a Taila Ramos, tenho 20 anos e sou Desenvolvedora Java Fullstack Jr. 💜
 
 - São Paulo - SP 📍
-- Estudante da Generation Brasil 💛
-- Gosto de uns joguinhos por ai também, e sim eu jogo Lol kkkk🎮 🤷‍♂️
+- Estudante de Análise e Desenvolvimento de Sistemas 
+- Gosto de uns joguinhos por ai também 🎮
 
 <img align="middle" height="150" alt="anime-hello" src="https://c.tenor.com/rcb3BnYWxtwAAAAd/hello.gif">
  <div>
