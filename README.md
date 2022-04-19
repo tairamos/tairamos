@@ -5,7 +5,7 @@ Eu sou a Taila Ramos, tenho 20 anos e sou Desenvolvedora Java Fullstack Jr. 💜
 - Estudante de Análise e Desenvolvimento de Sistemas 
 - Gosto de uns joguinhos por ai também 🎮
 
-<img align="middle" height="150" alt="anime-hello" src="https://c.tenor.com/zC3IAcmW3l8AAAAS/ayaka.gif">
+<img align="middle" height="150" alt="anime-hello" src="https://c.tenor.com/5ZYh_WnmvLwAAAAd/mihoyo-genshin.gif">
  <div>
   <a href="https://github.com/tairamos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tairamos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
