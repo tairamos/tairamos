@@ -1,11 +1,11 @@
 ### Olá , seja bem vindo ! 👋
-Eu sou a Taila Ramos, tenho 21 anos e sou Desenvolvedora Java Fullstack Jr. 💜
+Meu nome e Taila Ramos, tenho 24 anos e sou uma Dev expandindo meus conhecimentos 💜
 
 - São Paulo - SP 📍
-- Estudante de Análise e Desenvolvimento de Sistemas 
+- Formada em Análise e Desenvolvimento de Sistemas e FullStack Java 
 - Gosto de uns joguinhos por ai também 🎮
 
-<img align="middle" height="200" alt="anime-hello" src="https://c.tenor.com/1wwB5yNC6dgAAAAM/genshin-impact.gif">
+<img align="middle" height="200" alt="anime-hello" src="https://i.imgur.com/8BqTOaK.gif">
  <div>
   <a href="https://github.com/tairamos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tairamos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
