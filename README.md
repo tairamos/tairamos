@@ -1,5 +1,5 @@
 ### Olá , seja bem vindo ! 👋
-Meu nome e Taila Ramos, tenho 24 anos e sou uma Dev expandindo meus conhecimentos 💜
+Meu nome é Taila Ramos, tenho 24 anos e sou uma Dev expandindo meus conhecimentos 💜
 
 - São Paulo - SP 📍
 - Formada em Análise e Desenvolvimento de Sistemas e FullStack Java 
@@ -17,7 +17,7 @@ Meu nome e Taila Ramos, tenho 24 anos e sou uma Dev expandindo meus conhecimento
 height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p> <img src="https://komarev.com/ghpvc/?username=tairamos&color=green" alt="tairamos" /> 
 <div> 
   
-  <a href="https://www.instagram.com/thay_rams/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/taai_rams/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:tairamos.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/taila-ramos-2481261a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
